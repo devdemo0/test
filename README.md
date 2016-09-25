@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Peepchat
 
 This README outlines the details of collaborating on this Ember application.
@@ -52,6 +51,4 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
-=======
 # test
->>>>>>> 69d1e8960d24c3a4cf3c4bd071cd4941bc1c1b16
